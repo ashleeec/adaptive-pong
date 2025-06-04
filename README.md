@@ -20,7 +20,7 @@ This is my **first graphics project** and my **first project using pygame** — 
 ---
 
 ## Video Demo
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/688100828451471fa82888850423cb67?sid=58344862-9413-40cc-a1de-d46aa8a0ace6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://www.loom.com/embed/688100828451471fa82888850423cb67?sid=58344862-9413-40cc-a1de-d46aa8a0ace6
 
 ---
 
