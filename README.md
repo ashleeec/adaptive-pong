@@ -1,6 +1,11 @@
 # 🎮 Smart Pong
 
-**Smart Pong** is a Python-based arcade game inspired by the classic Pong — with a twist. The CPU opponent adapts its performance dynamically based on the score difference, making it easier or harder depending on how well you’re doing.
+**Smart Pong** is a Python-based arcade game inspired by the classic Pong — with a twist. The CPU opponent adapts its performance dynamically in response to player performance. The AI is built using rule-based logic with probabilistic behavior, simulating human-like imperfection and challenge balance — a common technique in game AI systems.
+
+The CPU's behavior is governed by:
+- Probabilistic reaction timing: It doesn’t react perfectly every time, simulating human-like errors.
+- Score-aware adaptation: As the CPU leads, its "focus" decreases, giving players a fairer challenge.
+- Dynamic movement: The CPU tracks the ball with randomized offsets to avoid robotic precision
 
 This is my **first graphics project** and my **first project using pygame** — built from the ground up to explore game development concepts like animation, collision detection, and state management in Python.
 
