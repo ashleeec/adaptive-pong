@@ -20,7 +20,13 @@ This is my **first graphics project** and my **first project using pygame** — 
 ---
 
 ## Video Demo
-https://www.loom.com/embed/688100828451471fa82888850423cb67?sid=58344862-9413-40cc-a1de-d46aa8a0ace6
+<div>
+    <a href="https://www.loom.com/share/688100828451471fa82888850423cb67">
+    </a>
+    <a href="https://www.loom.com/share/688100828451471fa82888850423cb67">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/688100828451471fa82888850423cb67-5cbdcb5f8664e248-full-play.gif">
+    </a>
+  </div>
 
 ---
 
